@@ -1,13 +1,9 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 h1,
 span,
 p {
   display: block;
+  margin: 0;
+  padding: 0;
 }
 
 body {
