@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+span,
+p {
+  display: block;
+}
+
+body {
+  font-family: 'Quicksand', Arial, sans-serif;
+  background-color: #caf0f8;
+  color: #03045e;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.carta {
+  border-radius: 10px;
+  border: 1px solid #90e0ef;
+  background-color: #e0f7fa;
+  padding: 20px;
+  margin: 50px auto;
+  max-width: 600px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.titulo {
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #ffba08;
+  text-align: center;
+}
+
+.data {
+  display: block;
+  font-size: 1em;
+  color: #0077b6;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.subtitulo {
+  font-size: 1.5em;
+  padding-bottom: 20px;
+  color: #0077b6;
+  text-align: left;
+}
+
+.texto {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  line-height: 1.8;
+  text-align: justify;
+}
+
+.despedida,
+.escritores {
+  font-size: 1.2em;
+  display: block;
+  margin-left: auto;
+  text-align: right;
+  color: #0077b6;
+}
